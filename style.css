@@ -1,3 +1,16 @@
 .modal {
     background: #c6d0ff7a;
 }
+
+body {
+    background-color: #FEFAF6;
+}
+
+.input-group-text {
+    background-color: #DAC0A3;
+}
+
+.btn1 {
+    background-color: #102C57;
+    font: #FFFF;
+}
